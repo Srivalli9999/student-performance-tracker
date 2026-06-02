@@ -1,4 +1,12 @@
+*Intern ID*: CITS931
 
+*Candidate Name*: Hema Satya Srivalli
+
+*Duration*: 6 weeks
+
+*Internship Period*:17 May 2026 - 28 June 2026
+
+*Selected For*:Machine Learning
 
 *Project Name*:Student Performance Tracker
 
