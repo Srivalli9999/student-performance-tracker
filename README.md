@@ -16,6 +16,14 @@ This project is developed to analyze and track student performance using Machine
 - Matplotlib
 - Scikit-learn
 
+*Dataset Used*:
+  Dataset Contains
+  .Student ID
+  .Student Name
+  .Attendance Percentage
+  .Study Hours
+  .Assignment Marks
+  .Performance Status
 *Results*:
 The project successfully analyzes student performance data and generates predictions.
 
